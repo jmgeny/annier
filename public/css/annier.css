@@ -56,7 +56,7 @@ section h3.section-subheading {
 
 @media (min-width: 768px) {
   section {
-    padding: 150px 0;
+    padding: 40px 0;
   }
 }
 
@@ -308,7 +308,7 @@ header.masthead .intro-text .intro-heading {
 }
 
 .portfolio-modal .modal-content {
-  padding: 100px 0;
+  padding: 50px 0;
   text-align: center;
 }
 
@@ -586,10 +586,10 @@ header.masthead .intro-text .intro-heading {
 }
 
 section#contact {
-  background-color: #212529;
-  background-image: url("../img/map-image.png");
+  background-color: #6E6E6E;
+/*  background-image: url("../img/map-image.png");
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center;*/
 }
 
 section#contact .section-heading {
@@ -678,9 +678,9 @@ ul.social-buttons li a {
   color: white;
   border-radius: 100%;
   outline: none;
-  background-color: #212529;
+  background-color: #a32439;
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-  background-color: #fed136;
+  background-color: #1d1d1d;
 }
